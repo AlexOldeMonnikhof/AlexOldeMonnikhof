@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Alexander Olde Monnikhof</h1>
+<h3 align="center">A Dutch coding student @ 1337 Khouribga.</h3>
 
-<!--
-**AlexOldeMonnikhof/AlexOldeMonnikhof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [Cub3d](https://github.com/AlexOldeMonnikhof/cub3d)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **C & C++**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **a.oldemonnikhof@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexoldemonnikhof&" alt="alexoldemonnikhof" /></p>
